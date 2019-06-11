@@ -245,7 +245,7 @@ body{
 }
 
 .mainbar {
-	width: 300px ;
+	width: 300px !important;
 }
 
 .header_resize {
