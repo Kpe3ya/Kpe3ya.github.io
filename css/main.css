@@ -17,8 +17,9 @@ body {
 }
 
 .close-button {
-  cursor: pointer;
+  cursor: auto;
 }
+
 
 #hamburger-open {
   z-index: 1;
