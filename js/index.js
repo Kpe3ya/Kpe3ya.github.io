@@ -53,8 +53,8 @@ var burst2 = new mojs.Burst({
 var openBackground = new mojs.Shape({
   fill: "#fff",
   scale: { 0: 8.5 },
-  radius: 300,
-  delay: 1000,
+  radius: 200,
+  delay: 400,
   easing: "cubic.out",
   backwardEasing: "ease.out",
   duration: 2000
