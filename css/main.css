@@ -167,13 +167,13 @@ body {
 .header_resize {
 	margin:0 auto;
 	padding:0;
-	width:320px ;
+	width: 100% ;
 }
 
 .content_resize {
 	margin:0 auto;
 	padding:0 0 0px;
-	width:300px ;
+	width: 100%;
 }
 
 .fbg_resize {
