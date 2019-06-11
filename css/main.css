@@ -187,7 +187,7 @@ body {
 
 .fbg_resize {
 	margin:0 auto;
-	width:100%;
+	width:300px;
 	padding:0px;
 	color:#fff;
 }
@@ -195,11 +195,11 @@ body {
 .footer_resize {
 	margin:0 auto;
 	padding:0px;
-	width: 100%;
+	width: 300px;
 }
 
 p {
-	width: 100%;
+	width: 300px;
 	margin:0px 0;
 	padding:0 0 0px 0;
 	font:normal 18px/1.8em Arial, Helvetica, sans-serif;
@@ -217,7 +217,7 @@ h2 {
 }
 
 .menu_nav ul li a {
-	width: 100%;
+	width: 320px;
 	font-size:18px;
 }
 
@@ -268,18 +268,18 @@ width: 350px;;
 .header_resize {
 	margin:0 auto;
 	padding:0;
-	width:768px;
+	width:768px !important;
 }
 
 .content_resize {
 	margin:0 auto;
 	padding:0 0 0px;
-	width:768px;
+	width:768px !important;
 }
 
 .fbg_resize {
 	margin:0 auto;
-	width:768px;
+	width:768px !important;
 	padding:0px;
 	color:#fff;
 }
