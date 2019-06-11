@@ -155,12 +155,10 @@ body {
 
 
 
-@media (max-width: 768px) {
-	body{
-		color:red;
-	}
+@media screen and(max-width: 800px) {
+	
 .mainbar {
-	width: 760px ;
+	width: 100% ;
 }
 
 .modal-menu {
@@ -188,13 +186,13 @@ width: 350px;;
 .header_resize {
 	margin:0 auto;
 	padding:0;
-	width:768px;
+	width: 100%;
 }
 
 .content_resize {
 	margin:0 auto;
 	padding:0 0 0px;
-	width:768px;
+	width: 100%;
 }
 
 .fbg_resize {
@@ -232,13 +230,11 @@ h2 {
 .menu_nav ul li a {
 	font-size:18px;
 }
+
 }
 
-
 @media screen and (max-width: 320px){
-body{
-		color:green;
-	}
+
 .modal-menu {
 	top: 11% ;
 	left: 50%;
