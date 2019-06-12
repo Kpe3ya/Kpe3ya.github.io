@@ -366,11 +366,11 @@ ol li .send {
     margin: 0;
     padding: 0;
     float: left;
-    width: 100%;
+    width: 200%;
 }
 
 .header_resize {
-	width: 100%;
+	width: 200%;
 }
 
 .content_resize {
@@ -378,12 +378,12 @@ ol li .send {
 }
 
 .fbg_resize {
-	width:100%;
+	width:200%;
 	padding:0px 0px;
 	}
 
 .footer_resize {
-	width: 100%;
+	width: 200%;
 	padding:0px 0px;
 }
 
@@ -442,7 +442,7 @@ width: 350px;;
 }
 
 .header_resize {
-	width: 200%;
+	width: 100%;
 }
 
 .content_resize {
@@ -450,12 +450,12 @@ width: 350px;;
 }
 
 .fbg_resize {
-	width:200%;
+	width:100%;
 	padding:0px 0px;
 	}
 
 .footer_resize {
-	width: 200%;
+	width: 100%;
 	padding:0px 0px;
 }
 
