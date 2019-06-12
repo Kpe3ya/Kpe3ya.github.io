@@ -35,6 +35,7 @@ var burst2 = new mojs.Burst({
   y: "50%",
   angle: { 0: 90 },
   radius: { 30: 45 },
+  
   count: 3,
   children: {
     shape: "circle",
@@ -53,8 +54,8 @@ var burst2 = new mojs.Burst({
 var openBackground = new mojs.Shape({
   fill: "#fff",
   scale: { 0: 8.5 },
-  radius: 200,
-  delay: 400,
+  radius: 500,
+  delay: 1000,
   easing: "cubic.out",
   backwardEasing: "ease.out",
   duration: 2000
